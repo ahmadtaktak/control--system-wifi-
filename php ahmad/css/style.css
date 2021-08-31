@@ -1,0 +1,9 @@
+#body {
+    background-image: url("https://cdn.pixabay.com/photo/2018/08/18/13/26/interface-3614766_960_720.png");
+    background-size: cover;
+    background-position: 50% 30%;
+}
+
+.fullBtn {
+    width: 100%;
+}
